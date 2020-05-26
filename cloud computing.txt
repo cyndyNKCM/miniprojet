@@ -1,0 +1,45 @@
+			CLOUD COMPUTING
+
+Le cloud computing est un concept qui date depuis les années 2000.Au début,le monde informatique était composé
+d'un système central et des stations clients sur lesquelles les utilisateurs louaient des espaces , des capacités.Après l'
+explosion de la bulle internet dans les années 2000, les trois acteurs amazon,google et salesforce ont développé un nuage 
+informatique pour developper leurs applications.Ayant remarqué que les datacenters disposaient de ressources non exploitées,
+pour rentabiliser ces machines, ils décidèrent de louer ces serveurs à d’autres entreprises à la demande.
+
+Encore appelé informatique en nuage,le cloud computing est un domaine de gestion et de stockage de données informatiques
+via un réseau étendu comme Internet tout en se passant d'un quelconque équipement informatique.
+
+Le cloud computing permet :
+	-aux utilisateurs d'accéder à leurs données en tout temps et en tout lieu.ils ont juste besoin d'un appareil
+ et d'une connexion internet.
+	- aux utilisateurs,en cas de panne,d'accéder à leurs données qui ne sont pas disponibles sur le disque dur mais
+ sur internet
+	-aux entreprises de se passer de tout équipement informatique de gestion ou de maintenance
+	-aux entreprises de réduire les coûts en matière d'équipement physiques et de consommation d'énergie,
+de formation de personnel...
+
+Cette technologie offre plusieurs avantages parmi lesquels :
+	-l'élasticité des ressources: en effet,le client a la possibilité d'augmenter ou de diminuer ses ressources en 
+ fonction de ses besoins 
+	-le service à la demande : en effet,le client a la possibilité d'acceder à n'importe quel type de ressources en 
+ fonction de sa demande quelque soit l'instant
+	-la mutualisation des ressources : l'hébergeur cloud possède de nombreuses ressources partagées entre ses clients
+ dans un endroit qui leur est inconnu en fonction de sa demande  
+
+On distingue egalement plusieurs modes de déploiement du cloud :
+	- cloud privé: ici l'ensemble des ressources sont réservées à l'usage exclusif d'une entreprise.Il permet à
+ l'entreprise d'avoir le contrôle sur son infrastructure technique
+	- cloud public: ici un prestataire de services cloud propose ses services, par Internet, à une multitude 
+ d’entreprises, universités, organismes publics et autres 
+	-cloud hybride: c'est un mélange des deux clouds cités plus haut c'est-à-dire avoir des ressources dédiées en 
+ interne et publiques en externe.Son but est de combiner differentes sortes de cloud afin de les unifier.
+	-cloud communautaire: l’infrastructure cloud est déployée en vue d’un usage exclusif par une communauté
+ spécifique d’utilisateurs partageant des besoins informatiques communs (sécurité,etc...)
+
+La technologie est divisée en plusieurs types à savoir:
+	-IAAS(Infrastructure As A Service) qui s'occupe de la partie infrastructure du cloud.Grâce à elle,les entreprises
+ n'ont pas besoin d'investir dans leur propre materiel
+	-PAAS(Platform As A Service) qui s'occupe du developpement d' appplications et logiciels et de nombreux fournisseurs
+ hébergent également le logiciel une fois qu’il est développé.
+	-SAAS(Software As A Service) qui s'occupe de la distribution des logiciels sur Internet
+

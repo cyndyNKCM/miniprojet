@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1590513855 source:c:\users\cyndy noubisssi\desktop\miniprojet\miniprojet\main.cpp
+	<iostream>
+	"classLecteur.h"
+	"FonctionCode.h"
+	"classMoteur.h"
+	"classOccurrence.h"
+	"classOrdonnanceur.h"
+	"classTriplet.h"
+	"classAnalyseur.h"
+	"classIndex.h"
+
+1590507283 source:c:\users\cyndy noubisssi\desktop\miniprojet\miniprojet\untitled1.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<vector>
+
+1590507414 source:c:\users\cyndy noubisssi\desktop\miniprojet\miniprojet\untitled2.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	<fstream>
+	"Untitled1.cpp"
+
+1590507871 c:\users\cyndy noubisssi\desktop\miniprojet\miniprojet\untitled1.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<vector>
+
+1590509347 c:\users\cyndy noubisssi\desktop\miniprojet\miniprojet\classlecteur.h
+	<cstring>
+	<fstream>
+	<iostream>
+	<vector>
+
+1590508230 source:c:\users\cyndy noubisssi\desktop\miniprojet\miniprojet\classlecteur.cpp
+	"classLecteur.h"
+	"FonctionCode.h"
+
+1590512681 c:\users\cyndy noubisssi\desktop\miniprojet\miniprojet\fonctioncode.h
+	<cstring>
+	<fstream>
+	<iostream>
+	<vector>
+	<map>
+	"classOccurrence.h"
+
+1590512681 source:c:\users\cyndy noubisssi\desktop\miniprojet\miniprojet\fonctioncode.cpp
+	"FonctionCode.h"
+
+1590510562 c:\users\cyndy noubisssi\desktop\miniprojet\miniprojet\classoccurrence.h
+	<iostream>
+	<vector>
+	<cstring>
+	<fstream>
+	<map>
+
+1590510137 source:c:\users\cyndy noubisssi\desktop\miniprojet\miniprojet\classoccurrence.cpp
+	"classOccurrence.h"
+
+1590511604 source:c:\users\cyndy noubisssi\desktop\miniprojet\miniprojet\classanalyseur.cpp
+	"classAnalyseur.h"
+	"FonctionCode.h"
+
+1590511663 c:\users\cyndy noubisssi\desktop\miniprojet\miniprojet\classanalyseur.h
+	<iostream>
+	<vector>
+	<cstring>
+	<fstream>
+	<map>
+	"classOccurrence.h"
+
+1590512205 source:c:\users\cyndy noubisssi\desktop\miniprojet\miniprojet\classtriplet.cpp
+	"classTriplet.h"
+
+1590512204 c:\users\cyndy noubisssi\desktop\miniprojet\miniprojet\classtriplet.h
+	<iostream>
+	<vector>
+	<cstring>
+	<fstream>
+	<map>
+
+1590523629 source:c:\users\cyndy noubisssi\desktop\miniprojet\miniprojet\classindex.cpp
+	"classIndex.h"
+	"classOccurrence.h"
+	"classTriplet.h"
+
+1590523649 c:\users\cyndy noubisssi\desktop\miniprojet\miniprojet\classindex.h
+	<iostream>
+	<vector>
+	<cstring>
+	<fstream>
+	<map>
+	"classTriplet.h"
+	"classOccurrence.h"
+
+1590512681 source:c:\users\cyndy noubisssi\desktop\miniprojet\miniprojet\classordonnanceur.cpp
+	"classOrdonnanceur.h"
+	"classTriplet.h"
+	"FonctionCode.h"
+
+1590512758 c:\users\cyndy noubisssi\desktop\miniprojet\miniprojet\classordonnanceur.h
+	<iostream>
+	<vector>
+	<cstring>
+	<fstream>
+	"classLecteur.h"
+	"classTriplet.h"
+
+1590523629 source:c:\users\cyndy noubisssi\desktop\miniprojet\miniprojet\classmoteur.cpp
+	"classMoteur.h"
+	"classAnalyseur.h"
+	"classTriplet.h"
+	"classLecteur.h"
+	"classIndex.h"
+	"classOrdonnanceur.h"
+
+1590526251 c:\users\cyndy noubisssi\desktop\miniprojet\miniprojet\classmoteur.h
+	<iostream>
+	<vector>
+	<cstring>
+	<fstream>
+	<map>
+	"classAnalyseur.h"
+	"classTriplet.h"
+	"classLecteur.h"
+	"classIndex.h"
+	"classOrdonnanceur.h"
+
